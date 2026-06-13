@@ -10,7 +10,7 @@
      [:specialist "Doing one thing and doing it well."]
      [:prepared "Having tools for every situation."]
      [:emotional "How well I emotionally connect with my character."]
-     [:rewarding "Aesthetics/feeling suitably rewarded when I perform well. grah"]
+     [:rewarding "5"]
      ]
     :result :playstyle
     }
